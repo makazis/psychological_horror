@@ -1,0 +1,19 @@
+{
+    "Kick":{
+        "Name":"Kick",
+        "Energy Cost":1,
+        "Effects":{
+            "Deal Damage":10
+        },
+        "Tribe":"Neutral"
+    },
+    "Wkick":{
+        "Name":"Warrior Kick",
+        "Energy Cost":1,
+        "Effects":{
+            "Deal Damage":11
+        },
+        "Tribe":"Warrior"
+    }
+    
+}
